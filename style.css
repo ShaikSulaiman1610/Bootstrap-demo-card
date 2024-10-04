@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+
+a{
+    text-decoration: underline;
+}
+
+fa{
+    color: blue;
+}
+
+
+.card-body{
+    text-align: center;
+    padding: 50px;
+}
+
+.icon{
+    color: blue;
+}
+
+
+
+.container{
+    padding: 30px;
+    
+}
+
+.card{
+    border-radius: 10px;
+    width: 320px;
+    margin-top: 40px;
+}
